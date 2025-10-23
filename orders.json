@@ -1,0 +1,47 @@
+{
+  "S49838": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "Toni Dobbertin, Salzmannweg 14, 70192 Stuttgart, Deutschland",
+    "price": "11.500 €",
+    "description": "Hersteller: Benelli<br>Typ: 750 Sei<br>Fahrgestelnummer: BC 7305<br>Erstzulassung: 06/1979<br>KM laut Vorbesitzer: 48.761 km<br>Leistung: 56 kW (76 PS)<br>Hubraum: 747 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Toni Dobbertin<br>Salzmannweg 14<br>70192 Stuttgart<br>Deutschland<br>Telefon: +49 160 7671115, +49 711 2578418",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "23-10-2025",
+    "deliveryDate": "28-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
