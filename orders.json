@@ -1,6 +1,6 @@
 {
   "S49838": {
-    "status": "Preparation for transport",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Toni Dobbertin, Salzmannweg 14, 70192 Stuttgart, Deutschland",
@@ -28,10 +28,10 @@
     "orderDate": "23-10-2025",
     "deliveryDate": "29-10-2025, 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Wildparkstraße 35",
+      "postal_code": "70197",
+      "city": "Stuttgart",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
